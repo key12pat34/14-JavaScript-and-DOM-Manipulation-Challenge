@@ -63,3 +63,11 @@ You can handle this... right? The planet Earth needs to know what we have found!
 ### Copyright
 
 Trilogy Education Services © 2019. All Rights Reserved.
+-----------------------------
+
+* test web-output: https://key12pat34.github.io/javascript-challenge-hw14/project/UFO-level-1/V1.6/homepage.html
+
+## Submission Files:
+* project/UFO-level-1/V1.6/static/js/app.js
+* project/UFO-level-1/V1.6/homepage.html
+
